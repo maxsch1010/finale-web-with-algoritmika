@@ -1,1 +1,12 @@
+body {
+    font-family: Comfortaa ;
+    background-image: linear-gradient( to left,#00AB6F,				
+#0969A2);
 
+}
+
+ul:hover{
+    transform: rotateX(360deg) rotateZ(360deg);
+    transition:all 5s linear;
+    background-color: aquamarine;
+}
